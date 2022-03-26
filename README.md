@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Imraghu117
-- 👀 I’m interested in creating websites 
+- 👀 I’m interested in new things that are going to developed.
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on java based project
 - 📫 How to reach me ?.
